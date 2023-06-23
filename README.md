@@ -9,6 +9,7 @@
 **like to train deep neural networks. Because making an intelligent brain always exicited me 🤖**
 
 - 👩‍💻 I’m currently working on [Payment System](https://github.com/hi-sushanta/cashless-payment-device)
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🎓 I’m  learning **Neuroscience**
 
