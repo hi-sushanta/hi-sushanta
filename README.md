@@ -6,7 +6,7 @@
 ### 🤵 About Me:
 **I love training deep neural networks 🤖.** There's something so exciting about creating an intelligent brain, even if it's just a small one. It's like watching a newborn baby start to understand the world around them. It's amazing to think that I can create something that can learn and grow on its own.
 
--  🧠  I’m  learning **Neuroscience**
+-  🧠  I’m  currently learning **Neuroscience**
 
 - 📝 I regularly write articles on 🌐 [hiwhy.io](https://hiwhy.io/)
 
