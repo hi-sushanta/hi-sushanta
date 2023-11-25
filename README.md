@@ -3,7 +3,10 @@
 
 
 **I like Training Neural Netowork 🧠 🤖**
-**[Follow Me]( )**
+
+
+### Follow Me 
+**[X](https://twitter.com/hi_sushanta_)**
 
 
 
