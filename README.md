@@ -2,11 +2,14 @@
 
 
 
-**I like Training Neural Netowork 🧠 🤖**
+## **I like Training Neural Netowork 🧠 🤖**
 
 
-### Follow Me 
-**[X](https://twitter.com/hi_sushanta_)**
+
+**[X](https://twitter.com/hi_sushanta_)** 
+
+
+**[Linkedin](https://www.linkedin.com/in/sushanta-das-/)**
 
 
 
