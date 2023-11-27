@@ -1,5 +1,5 @@
 
-## I like Training Neural Netowork 🧠 🤖
+## I like Training Neural Network 🧠 🤖
 
 
 
